@@ -26,6 +26,7 @@ Thank you for reading - I'm a JavaScript developer graduating from Founders and 
 * Jest
 * Yarn
 * MongoDB
+* Machine Learning and Big Data
 
 ## Other languages
 
