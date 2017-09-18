@@ -15,7 +15,7 @@ Thank you for reading - I'm a JavaScript developer graduating from Founders and 
 ## Have also used
 * Websockets with __socket.io__
 * __Three.js__
-* __Babel__ for transpiling code from ES6 to browser compatible
+* __Babel__ for transpiling code to cross-browser compatible
 * __Browserify/watchify__ for bundling frontend files
 * Continuous integration using __Travis__
 
