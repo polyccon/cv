@@ -30,7 +30,8 @@ Thank you for reading - I'm a JavaScript developer graduating from Founders and 
 
 ## Other languages
 
-Familiar with __Python__ and used __Matlab__ for the data analysis of my PhD research results.
+Familiar with __Python__ : completed intermediate and introduction to Python for Data Science on Datacamp. 
+I also used __Matlab__ for the data analysis of my PhD research results.
 
 ## OS
 Linux, Mac, Windows, you name it.
