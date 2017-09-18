@@ -41,11 +41,11 @@ Linux, Mac, Windows, you name it.
 * Degree in Physics (BSc/MSc).
 
 ## Foreign Languages
-English
-Greek
-Italian 
-Spanish
-French (some)
+* English
+* Greek
+* Italian 
+* Spanish
+* French (some)
 
 ## Work Experience
 * Full Stack JavaScript Developer, Founders & Coders (2017 - Present)
