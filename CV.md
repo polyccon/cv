@@ -51,7 +51,7 @@ Linux, Mac, Windows, you name it.
 * French (some)
 
 ## Work Experience
-* Node week-2 teacher at Founders and Coders - November 2017
+* Node week-2 mentor at Founders and Coders - November 2017
 * Full Stack JavaScript Developer, Founders & Coders (2017 - Present)
 * Data & Insights Manager London, (2016)
 * Academic research in Nanomedicine (science), in France (2014)
