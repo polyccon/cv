@@ -1,6 +1,6 @@
 # Constantina Polycarpou - Github CV
 
-Thank you for reading - I'm a JavaScript developer graduating from Founders and Coders in October and former academic physicist.
+I'm a JavaScript developer graduating from Founders and Coders in October and former academic physicist.
 
 * Here is a link to the most recent project I've worked on: https://github.com/FAC-11/FACgame
 
@@ -40,8 +40,8 @@ Linux, Mac, Windows, you name it.
 
 ## Education
 * 17 week bootcamp Founders and Coders
-* Ph.D. in Experimental Physics, Atomic and Molecular Spectroscopy in particular.
-* Degree in Physics (BSc/MSc).
+* Ph.D. in Experimental Physics, Atomic and Molecular Spectroscopy in particular. L.E.N.S., INO-CNR and Univesity of Florence, Italy.
+* Degree in Physics (BSc/MSc). Aristotle University of Thessaloniki.
 
 ## Foreign Languages
 * English
