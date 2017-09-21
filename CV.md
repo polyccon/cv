@@ -1,6 +1,6 @@
 # Constantina Polycarpou - Github CV
 
-I'm a JavaScript developer graduating from Founders and Coders in October and former academic physicist.
+I'm a JavaScript developer graduating from Founders and Coders (FAC) in October and former academic in the field of experimental physics. I discovered programming because I was interested in data science, and it has become my passion since I started preparing for FAC last winter.
 
 * Here is a link to the most recent project I've worked on: https://github.com/FAC-11/FACgame
 
