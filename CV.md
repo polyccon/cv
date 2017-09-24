@@ -9,7 +9,7 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 * Node.js
 * Express.js
 * Testing with Tape and supertest
-* Database __postgreSQL__
+* Database postgreSQL
 * Authentication: OAuth 2.0, JSON Web Token
 
 ## Have also used
