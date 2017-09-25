@@ -12,6 +12,9 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 * Testing with Tape and supertest
 * Database postgreSQL
 * Authentication: OAuth 2.0, JSON Web Token
+* Heroku
+* Markdown
+* HTML5/ CSS3
 
 
 ## Have also used
