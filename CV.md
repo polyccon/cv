@@ -54,8 +54,7 @@ Linux, Mac, Windows, you name it.
 Thesis title: “Adaptive detection of arbitrarily shaped ultrashort quantum light states”
 
 * Degree in Physics (BSc/MSc). Aristotle University of Thessaloniki.
-
-I took 54 exams in a wide range of scientific topics (i.e. Theoretical and Quantum Mechanics, Optics, Astronomy,
+    I took 54 exams in a wide range of scientific topics (i.e. Theoretical and Quantum Mechanics, Optics, Astronomy,
 Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical geometry/vector calculus, Chemistry, Physic and Philosophy, Advanced Calculus, Differential Equations etc.)
 
 ***
