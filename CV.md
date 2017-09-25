@@ -45,6 +45,8 @@ I also used __Matlab__ for the data analysis of my PhD research results, as well
 ## OS
 Linux, Mac, Windows, you name it.
 
+***
+
 ## Education
 * 17 week bootcamp at Founders and Coders, London
 
@@ -56,6 +58,16 @@ Thesis title: “Adaptive detection of arbitrarily shaped ultrashort quantum lig
 I took 54 exams in a wide range of scientific topics (i.e. Theoretical and Quantum Mechanics, Optics, Astronomy,
 Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical geometry/vector calculus, Chemistry, Physic and Philosophy, Advanced Calculus, Differential Equations etc.)
 
+***
+
+## Work Experience
+* Node week-2 mentor at Founders and Coders - November 2017
+* Full Stack JavaScript Developer, Founders & Coders 
+* Data & Insights Manager London, 
+* Academic research in Nanomedicine (science), in France 
+* Academic research in Quantum Optics (science), in Florence, Italy 
+
+***
 
 ## Foreign Languages
 * English
@@ -64,12 +76,7 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 * Spanish
 * French (some)
 
-## Work Experience
-* Node week-2 mentor at Founders and Coders - November 2017
-* Full Stack JavaScript Developer, Founders & Coders (2017 - Present)
-* Data & Insights Manager London, (2016)
-* Academic research in Nanomedicine (science), in France (2014)
-* Academic research in Quantum Optics (science), in Florence, Italy (2013)
+***
 
 ## Other interests
 
