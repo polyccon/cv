@@ -85,4 +85,4 @@ When not at FAC or codebar or other coding meetups, I might be doing one of the 
 *** 
 
 ## Contact 
-[Twitter](https://twitter.com/polyccon) >[LinkedIn](https://www.linkedin.com/in/polycco) 
+[Twitter](https://twitter.com/polyccon) | [LinkedIn](https://www.linkedin.com/in/polycco) | [Github](https://github.com/polyccon) | polyccon@gmail.com
