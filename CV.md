@@ -78,7 +78,7 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 * Grant for top advanced undergraduate student from Onassis foundation to attend the “BEC” summer school in Crete.
 * Award from Physics Dep., A.U.Th. for the top score in qualifying exams for Cypriots of my year.
 * Top student scholarship from the Government of Cyprus.
-* Graduated from High school with an average of 19.818 out of 20, awarded “best student” awards in Physics and French, and was “top student” of my graduating year 2000-’01.
+* Graduated from High school with an average of 19.818 out of 20, awarded “best student” awards in Physics and French, and was “top student” of my graduating year.
 
 ***
 
