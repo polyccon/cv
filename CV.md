@@ -47,6 +47,15 @@ Linux, Mac, Windows, you name it.
 
 ***
 
+## Work Experience
+* Node week-2 mentor at Founders and Coders - November 2017
+* Full Stack JavaScript Developer, Founders & Coders 
+* Data & Insights Manager London, 
+* Academic research in Nanomedicine (science), in France 
+* Academic research in Quantum Optics (science), in Florence, Italy 
+
+***
+
 ## Education
 * 17 week bootcamp at Founders and Coders, London
 
@@ -61,12 +70,15 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 
 ***
 
-## Work Experience
-* Node week-2 mentor at Founders and Coders - November 2017
-* Full Stack JavaScript Developer, Founders & Coders 
-* Data & Insights Manager London, 
-* Academic research in Nanomedicine (science), in France 
-* Academic research in Quantum Optics (science), in Florence, Italy 
+## Honours and Awards
+
+* Travel grant from DAMOP Subdivision of APS (American Physical Society), for the APS meeting in June 2013, Canada.
+* Grant to attend the “Quantitative population genetics” summer school in France, July 2013.
+* Poster prize at the 453. Heraeus Seminar: voted among the 3 best presentations of the conference.
+* Grant for top advanced undergraduate student from Onassis foundation to attend the “BEC” summer school in Crete.
+* Award from Physics Dep., A.U.Th. for the top score in qualifying exams for Cypriots of my year.
+* Top student scholarship from the Government of Cyprus.
+* Graduated from High school with an average of 19.818 out of 20, awarded “best student” awards in Physics and French, and was “top student” of my graduating year 2000-’01.
 
 ***
 
