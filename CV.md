@@ -50,7 +50,7 @@ Linux, Mac, Windows, you name it.
 ## Work Experience
 * Node week-2 mentor at Founders and Coders - November 2017
 * Full Stack JavaScript Developer, Founders & Coders 
-* Data & Insights Manager London, 
+* Data & Insights Manager, London
 * Academic research in Nanomedicine (science), in France 
 * Academic research in Quantum Optics (science), in Florence, Italy 
 
@@ -69,8 +69,23 @@ Linux, Mac, Windows, you name it.
 Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical geometry/vector calculus, Chemistry, Physic and Philosophy, Advanced Calculus, Differential Equations etc.)
 
 ***
+## Additional info 
 
-## Honours and Awards
+### Publications and Press Releases
+* Phys. Rev. Lett. 109, 053602 . “Adaptive detection of arbitrarily shaped ultrashort
+quantum light states”,
+* Research in Optical Sciences, OSA Technical Digest , paper QT5A.3.
+* Frontiers in Optics Conference, OSA Technical Digest (online), paper FW4J.2.
+* International Conference on Quantum Information, OSA Technical Digest (CD), paper QMG2
+* Proc. SPIE 8072, Photon Counting Applications, Quantum Optics, and Quantum Information Transfer and Processing III, 80720P; doi:10.1117/12.887192 
+* Focus: “Measuring the Shape of a Photon”, DOI: 10.1103/Physics.5.86.
+* Physicsworld: “Photon shape could be used to encode quantum information”.
+* New Scientist: “Quantum “alphabet” easier to read with laser booster”.
+* 2Physics: “The shape of quantum light”.
+* La repubblica: “Il Cnr misura forma della luce”.
+* ANSA (Scienza&Tecnica): “Misurata la forma della luce”.
+
+### Honours and Awards
 
 * Travel grant from DAMOP Subdivision of APS (American Physical Society), for the APS meeting in June 2013, Canada.
 * Grant to attend the “Quantitative population genetics” summer school in France, July 2013.
@@ -82,7 +97,7 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 
 ***
 
-## Foreign Languages
+### Foreign Languages
 * English
 * Greek
 * Italian 
@@ -91,7 +106,7 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 
 ***
 
-## Other interests
+### Other interests
 
 When not at FAC or __codebar__ or other coding meetups, I might be doing one of the following:
 
