@@ -12,7 +12,7 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 * Testing with Tape and supertest
 * Database postgreSQL
 * Authentication: OAuth 2.0, JSON Web Token
-* Data analysis and calculations using Origin, Matlab, Mathematica etc.
+
 
 ## Have also used
 * Websockets with __socket.io__
@@ -37,7 +37,7 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 
 Familiar with __Python__ : completed intermediate and introduction to Python for Data Science on Datacamp. 
 
-I also used __Matlab__ for the data analysis of my PhD research results.
+I also used __Matlab__ for the data analysis of my PhD research results, as well as other software like Origin, Matlab, Mathematica etc.
 
 
 ## OS
