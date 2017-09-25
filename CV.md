@@ -112,7 +112,7 @@ When not at FAC or __codebar__ or other coding meetups, I might be doing one of 
 
 * Running -long distance.
 * Looking for records, techno, house, idm, breakbeat, electro, etc
-* I'm a member of the Florentine Caving Group and Italian Alpinian Club, also the only foreigner. However, as I'm not currently in Florence I need to looking for groups locally.
+* I'm a member of the Florentine Caving Group and Italian Alpinian Club, also the only foreigner. (GSF-CAI)
 * Reading psychology books.
 * Cinema and photography.
 * Volunteering: I would really like to save the planet, please give me a hand.
