@@ -3,7 +3,7 @@
 I'm a JavaScript developer graduating from Founders and Coders (FAC) in October and former academic in the field of experimental physics. I discovered programming because I was interested in data science, and it has become my passion since I started preparing for FAC last winter.
 
 * Here is a link to the most recent project I've worked on: https://github.com/FAC-11/FACgame
-* Twitter: https://twitter.com/polyccon
+
 
 ## My current tech stack
 * JavaScript
@@ -79,3 +79,8 @@ When not at FAC or codebar or other coding meetups, I might be doing one of the 
 * Reading psychology books.
 * Cinema and photography.
 * Volunteering: I would really like to save the planet, please give me a hand.
+
+*** 
+
+## Contact 
+[Twitter](https://twitter.com/polyccon) > [LinkedIn](https://www.linkedin.com/in/polycco) >
