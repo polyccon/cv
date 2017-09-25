@@ -43,6 +43,8 @@ Linux, Mac, Windows, you name it.
 * 17 week bootcamp Founders and Coders
 * Ph.D. in Experimental Physics, Atomic and Molecular Spectroscopy in particular. L.E.N.S., INO-CNR and Univesity of Florence, Italy.
 * Degree in Physics (BSc/MSc). Aristotle University of Thessaloniki.
+I took 54 exams in a wide range of scientific topics (i.e. Theoretical and Quantum Mechanics, Optics, Astronomy,
+Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical geometry/vector calculus, Chemistry, Physic and Philosophy, Advanced Calculus, Differential Equations etc.)
 
 ## Foreign Languages
 * English
