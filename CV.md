@@ -4,6 +4,8 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 
 * Here is a link to the most recent project I've worked on: https://github.com/FAC-11/FACgame
 
+***
+
 ## My current tech stack
 * JavaScript
 * Node.js
@@ -47,7 +49,7 @@ Linux, Mac, Windows, you name it.
 
 ***
 
-## Work Experience
+## Experience
 * Node week-2 mentor at Founders and Coders - November 2017
 * Full Stack JavaScript Developer, Founders & Coders 
 * Data & Insights Manager, London
@@ -69,6 +71,12 @@ Linux, Mac, Windows, you name it.
 Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical geometry/vector calculus, Chemistry, Physic and Philosophy, Advanced Calculus, Differential Equations etc.)
 
 ***
+
+## Contact 
+[Twitter](https://twitter.com/polyccon) | polyccon@gmail.com | [LinkedIn](https://www.linkedin.com/in/polycco) | [Github](https://github.com/polyccon) 
+
+***
+
 ## Additional info 
 
 ### Publications and Press Releases
@@ -95,7 +103,6 @@ quantum light states”,
 * Top student scholarship from the Government of Cyprus.
 * Graduated from High school with an average of 19.818 out of 20, awarded “best student” awards in Physics and French, and was “top student” of my graduating year.
 
-***
 
 ### Foreign Languages
 * English
@@ -104,7 +111,6 @@ quantum light states”,
 * Spanish
 * French (some)
 
-***
 
 ### Other interests
 
@@ -117,7 +123,5 @@ When not at FAC or __codebar__ or other coding meetups, I might be doing one of 
 * Cinema and photography.
 * Volunteering: I would really like to save the planet, please give me a hand.
 
-*** 
 
-## Contact 
-[Twitter](https://twitter.com/polyccon) | [LinkedIn](https://www.linkedin.com/in/polycco) | [Github](https://github.com/polyccon) | polyccon@gmail.com
+
