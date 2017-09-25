@@ -12,6 +12,7 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 * Testing with Tape and supertest
 * Database postgreSQL
 * Authentication: OAuth 2.0, JSON Web Token
+* Data analysis and calculations using Origin, Matlab, Mathematica etc.
 
 ## Have also used
 * Websockets with __socket.io__
