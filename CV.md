@@ -4,7 +4,6 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 
 * Here is a link to the most recent project I've worked on: https://github.com/FAC-11/FACgame
 
-
 ## My current tech stack
 * JavaScript
 * Node.js
@@ -86,4 +85,4 @@ When not at FAC or codebar or other coding meetups, I might be doing one of the 
 *** 
 
 ## Contact 
-[Twitter](https://twitter.com/polyccon) > [LinkedIn](https://www.linkedin.com/in/polycco) >
+[Twitter](https://twitter.com/polyccon) >[LinkedIn](https://www.linkedin.com/in/polycco) 
