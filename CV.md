@@ -51,6 +51,7 @@ Linux, Mac, Windows, you name it.
 * 17 week bootcamp at Founders and Coders, London
 
 * Ph.D. in Experimental Physics, Atomic and Molecular Spectroscopy in particular. L.E.N.S., INO-CNR and Univesity of Florence, Italy.
+
     Thesis title: “Adaptive detection of arbitrarily shaped ultrashort quantum light states”
 
 * Degree in Physics (BSc/MSc). Aristotle University of Thessaloniki.
