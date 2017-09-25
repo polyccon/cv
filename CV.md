@@ -19,6 +19,9 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 * __Babel__ for transpiling code to cross-browser compatible
 * __Browserify/watchify__ for bundling frontend files
 * Continuous integration using __Travis__
+* __Istanbul__
+* __Tachyons__
+
 
 ## Interests 
 * React
