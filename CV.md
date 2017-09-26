@@ -12,7 +12,7 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 * Express.js
 * Testing with Tape and supertest
 * Database postgreSQL
-* Authentication: OAuth 2.0, JSON Web Token
+* Authentication: bcrypt and JSON Web Token
 * Heroku
 * Markdown
 * HTML5/ CSS3
