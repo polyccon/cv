@@ -52,7 +52,7 @@ Linux, Mac, Windows, you name it.
 
 ## Experience
 * Node week-2 mentor at Founders and Coders - November 2017
-* Full Stack JavaScript Developer, Founders & Coders 
+* Full Stack JavaScript Developer, Founders & Coders, London
 * Data & Insights Manager, London
 * Academic research in Nanomedicine (science), in France 
 * Academic research in Quantum Optics (science), in Florence, Italy 
