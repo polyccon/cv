@@ -3,7 +3,7 @@
 I'm a JavaScript developer graduating from Founders and Coders (FAC) in October and former academic in the field of experimental physics. I discovered programming because I was interested in data science, and it has become my passion since I started preparing for FAC last winter.
 
 * Currently working on a project for young people with mental health problems, for Anna Freud: https://github.com/FAC-11/AllAboutMe
-* Here is a link to the most recent project I've worked on: https://github.com/FAC-11/FACgame
+* Here is a link to a recent project I've worked on: https://github.com/FAC-11/FACgame
 
 ***
 
@@ -74,7 +74,7 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 ***
 
 ## Contact 
-[Twitter](https://twitter.com/polyccon) | polyccon@gmail.com | [LinkedIn](https://www.linkedin.com/in/polycco) | [Github](https://github.com/polyccon) 
+[Twitter](https://twitter.com/polyccon) | polyccon@gmail.com | [LinkedIn](https://www.linkedin.com/in/polycco) | [Github](https://github.com/polyccon) | [StackOverflow](https://stackoverflow.com/users/8650897/polyccon)
 
 ***
 
