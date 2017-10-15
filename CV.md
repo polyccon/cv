@@ -27,6 +27,7 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 * Continuous integration using __Travis__
 * __Istanbul__
 * __Tachyons__
+* __Sendemail__ npm module for sending emails
 
 
 ## Interests 
