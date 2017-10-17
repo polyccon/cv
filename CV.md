@@ -116,7 +116,7 @@ quantum light states”,
 
 ### Other interests
 
-When not at FAC or __codebar__ or other coding meetups, I might be doing one of the following:
+When not at FAC or __codebar__ or other __coding meetups__, I might be doing one of the following:
 
 * Running -long distance.
 * Looking for records, techno, house, idm, breakbeat, electro, etc
