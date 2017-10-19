@@ -9,11 +9,11 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 
 ## My current tech stack
 
-| LANGUAGES     | Frameworks|Libraries |       |
-| ------------- |:--------------------:| -----:|
-|               |                      |       |
-|               |                      |       |
-|               |                      |       |
+| LANGUAGES     | Frameworks|Libraries    |       |
+| ------------- |:-----------------------:| -----:|
+|               |                         |       |
+|               |                         |       |
+|               |                         |       |
 
 * JavaScript
 * Node.js
