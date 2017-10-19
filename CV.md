@@ -61,6 +61,7 @@ Linux, Mac, Windows, you name it.
 ***
 
 ## Education
+![founders and coders](https://www.coops.tech/app/uploads/2016/12/CT_Logo_Founders_Coders.png)
 * 17 week bootcamp at Founders and Coders, London
 
 * Ph.D. in Experimental Physics, Atomic and Molecular Spectroscopy in particular. L.E.N.S., INO-CNR and Univesity of Florence, Italy.
