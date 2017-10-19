@@ -119,8 +119,8 @@ quantum light states”,
 When not at FAC or __codebar__ or other __coding meetups__, I might be doing one of the following:
 
 * Running -long distance. :running:
-* Looking for records, techno, house, idm, breakbeat, electro, etc :musical_note: :headphones: 
-* I'm a member of the Florentine Caving Group and Italian Alpinian Club, also the only foreigner. (GSF-CAI) 
+* Looking for records, techno, house, idm, breakbeat, electro, etc :headphones: 
+* I'm a member of the Florentine Caving Group and Italian Alpinian Club, also the only foreigner. (GSF-CAI) :sunrise_over_mountains: 
 * Reading psychology books.:books:
 * Cinema and photography. :cinema:
 * Volunteering: I would really like to save the planet, please give me a hand. :herb:
