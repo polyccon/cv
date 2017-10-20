@@ -12,6 +12,8 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 |   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Others__    |
 |  -------------  | -----------------------  | ----------- | ------------- | -----------------   | 
 |   JavaScript    | Node.js    | Tape /Supertest     |  PostgreSQL     |   Heroku    |
+|   HTML5/CSS3    | Express.js | Travis/Cl  |       |   Authentication with bcrypt and JSON Web Token   |
+|   Python  |    |    |    |     Markdown    |                                              
 
 * JavaScript
 * Node.js
