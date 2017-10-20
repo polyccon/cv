@@ -9,11 +9,8 @@ I'm a JavaScript developer graduating from Founders and Coders (FAC) in October 
 
 ## My current tech stack
 
-| LANGUAGES     | Frameworks|Libraries    |       |
-| ------------- |:-----------------------:| -----:|
-|               |                         |       |
-|               |                         |       |
-|               |                         |       |
+|   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Others__    |
+|   JavaScript    | Node.js    | Tape /Supertest     |  PostgreSQL     |   Heroku    |
 
 * JavaScript
 * Node.js
