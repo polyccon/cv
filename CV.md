@@ -2,8 +2,8 @@
 
 I'm a JavaScript developer recently graduated from Founders and Coders (FAC), (October 2017) and former academic in the field of experimental physics. I discovered programming because I was interested in learning about data science, and it has become my passion since I started preparing for my application to the FAC programme, last winter.
 
-* Currently working on a project for young people with mental health problems, to help their transition to adult care, for Anna Freud: https://github.com/FAC-11/AllAboutMe
-* Here is a link to a recent project I've worked on: https://github.com/FAC-11/FACgame
+* Currently working on a project for young people with mental health problems, to help their transition to adult care, for Anna Freud : https://github.com/FAC-11/AllAboutMe
+* Here is a link to a recent project I've worked on (a multiplayer - shooter game all written in JS, using websockets) : https://github.com/FAC-11/FACgame
 
 ***
 
