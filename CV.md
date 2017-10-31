@@ -22,13 +22,14 @@ I'm a JavaScript developer recently graduated from Founders and Coders (FAC), (O
 
 ## Have also used
 * Websockets with __socket.io__
-* __Three.js__
+* __Three.js__ frontend library for gaming
 * __Babel__ for transpiling code to cross-browser compatible
 * __Browserify/watchify__ for bundling frontend files
 * Continuous integration using __Travis__
-* __Istanbul__
-* __Tachyons__
+* __Istanbul__ 
+* __Tachyons__ 
 * __Sendemail__ npm module for sending emails
+* __Redis__
 
 
 ## Interests 
