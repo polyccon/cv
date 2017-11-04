@@ -11,7 +11,7 @@ I'm a JavaScript developer recently graduated from Founders and Coders (FAC), (O
                                          
 * JavaScript
 * Node.js
-* Express.js
+* Express.js and Handlebars
 * Testing with Tape and supertest
 * Database postgreSQL
 * Authentication: bcrypt and JSON Web Token
