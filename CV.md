@@ -12,11 +12,10 @@ Some projects I've worked on:
 |   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Others__    | __Other software__   | 
 |  -------------  | -----------------------  | ----------- | ------------- | -----------------   | -------------------- |
 |   JavaScript    | Node.js    | Tape        |  PostgreSQL     |   Heroku    |   Origin     |
-|   HTML5/CSS3    | Express.js | Travis/Cl   |   Redis    |   Authentication: bcrypt, JSON Web Token, crypto   |  Mathematica  |
-|   Python        |  Handlebars  |  Istanbul/nyc |    MongoDB      |     Git/Github    |    Gimp   |                         
-|   Matlab        |    3.js     |      supertest         |             |       Markdown   |  Reason 5   |
-|                 |  socket.io   |          |               |              |      babel/browserify/watchify     |
-
+|   HTML5/CSS3    | Express.js |  Shot   |   Redis    |   Authentication: bcrypt, JSON Web Token, crypto   |  Mathematica  |
+|   Python        |  Handlebars  |  Supertest   |    MongoDB      |     Git/Github    |    Gimp   |                         
+|   Matlab        |    3.js     |        Travis/Cl       |             |       Markdown   |  Reason 5   |
+|                 |  socket.io   |     Istanbul/nyc      |               |              |      babel/browserify/watchify      
 *** 
 
 ## OS
