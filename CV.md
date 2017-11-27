@@ -8,7 +8,12 @@ I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former acade
 ***
 
 ## My current tech stack
-                                         
+|   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Others__    |
+|  -------------  | -----------------------  | ----------- | ------------- | -----------------   |
+|   JavaScript    | Node.js    | Tape /Supertest     |  PostgreSQL     |   Heroku    |
+|   HTML5/CSS3    | Express.js | Travis/Cl  |       |   Authentication with bcrypt and JSON Web Token   |
+|   Python  |    |    |    |     Markdown    |                                         
+
 * JavaScript
 * Node.js
 * Express.js and Handlebars
@@ -33,7 +38,7 @@ I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former acade
 * __Redis__ database
 
 
-## Interests 
+## Interests
 * React
 * Redux
 * D3.js
@@ -43,7 +48,7 @@ I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former acade
 
 ## Other languages
 
-Familiar with __Python__ : completed intermediate and introduction to Python for Data Science on Datacamp. 
+Familiar with __Python__ : completed intermediate and introduction to Python for Data Science on Datacamp.
 
 I also used __Matlab__ for the data analysis of my PhD research results, as well as other software like Origin, Matlab, Mathematica etc.
 
@@ -57,13 +62,13 @@ Linux, Mac, Windows, you name it.
 * Node week-2 mentor at Founders and Coders - November 2017
 * Full Stack JavaScript Developer, Founders & Coders, London
 * Data & Insights Manager, London
-* Academic research in Nanomedicine (science), in France 
-* Academic research in Quantum Optics (science), in Florence, Italy 
+* Academic research in Nanomedicine (science), in France
+* Academic research in Quantum Optics (science), in Florence, Italy
 
 ***
 
 ## Education
-![founders and coders](https://www.coops.tech/app/uploads/2016/12/CT_Logo_Founders_Coders.png)
+
 * 17 week bootcamp at Founders and Coders, London
 
 * Ph.D. in Experimental Physics, Atomic and Molecular Spectroscopy in particular. L.E.N.S., INO-CNR and Univesity of Florence, Italy.
@@ -77,12 +82,12 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 
 ***
 
-## Contact 
+## Contact
 [Twitter](https://twitter.com/polyccon) | polyccon@gmail.com | [LinkedIn](https://www.linkedin.com/in/polycco) | [Github](https://github.com/polyccon) | [StackOverflow](https://stackoverflow.com/users/8650897/polyccon)
 
 ***
 
-## Additional info 
+## Additional info
 
 ### Publications and Press Releases
 * Phys. Rev. Lett. 109, 053602 . “Adaptive detection of arbitrarily shaped ultrashort
@@ -90,7 +95,7 @@ quantum light states”,
 * Research in Optical Sciences, OSA Technical Digest , paper QT5A.3.
 * Frontiers in Optics Conference, OSA Technical Digest (online), paper FW4J.2.
 * International Conference on Quantum Information, OSA Technical Digest (CD), paper QMG2
-* Proc. SPIE 8072, Photon Counting Applications, Quantum Optics, and Quantum Information Transfer and Processing III, 80720P; doi:10.1117/12.887192 
+* Proc. SPIE 8072, Photon Counting Applications, Quantum Optics, and Quantum Information Transfer and Processing III, 80720P; doi:10.1117/12.887192
 * Focus: “Measuring the Shape of a Photon”, DOI: 10.1103/Physics.5.86.
 * Physicsworld: “Photon shape could be used to encode quantum information”.
 * New Scientist: “Quantum “alphabet” easier to read with laser booster”.
@@ -112,21 +117,6 @@ quantum light states”,
 ### Foreign Languages
 * English
 * Greek
-* Italian 
+* Italian
 * Spanish
 * French (some)
-
-
-### Other interests
-
-When not at FAC or __codebar__ or other __coding meetups__, I might be doing one of the following:
-
-* Running -long distance. :running:
-* Looking for records, techno, house, idm, breakbeat, electro, etc :headphones: 
-* I'm a member of the Florentine Caving Group and Italian Alpinian Club, also the only foreigner. (GSF-CAI) :sunrise_over_mountains: 
-* Reading psychology books.:books:
-* Cinema and photography. :cinema:
-* Volunteering: I would really like to save the planet, please give me a hand. :herb:
-
-
-
