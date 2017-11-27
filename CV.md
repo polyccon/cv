@@ -1,6 +1,6 @@
 # Constantina - Github CV
 
-I'm a JavaScript developer recently graduated from Founders and Coders (FAC), (October 2017) and former academic in the field of experimental physics. I discovered programming because I was interested in learning about data science, and it has become my passion since I started preparing for my application to the FAC programme, last winter.
+I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former academic in the field of experimental physics. I discovered programming because I was interested in learning about data science, and it has become my passion since I started preparing for my application to the FAC programme.
 
 * Currently working on a project for young people with mental health problems, to help their transition to adult care, for [Anna Freud](http://www.annafreud.org/) : https://github.com/FAC-11/AllAboutMe
 * Here is a link to a recent project I've worked on (a multiplayer - shooter game all written in JS, using websockets) : https://github.com/FAC-11/FACgame
@@ -21,6 +21,7 @@ I'm a JavaScript developer recently graduated from Founders and Coders (FAC), (O
 
 
 ## Have also used
+* MongoDB
 * Websockets with __socket.io__
 * __Three.js__ frontend library for gaming
 * __Babel__ for transpiling code to cross-browser compatible
@@ -37,7 +38,6 @@ I'm a JavaScript developer recently graduated from Founders and Coders (FAC), (O
 * Redux
 * D3.js
 * Jest
-* MongoDB
 * Machine Learning and Big Data
 
 
