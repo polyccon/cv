@@ -4,7 +4,7 @@ I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former acade
 
 Some projects I've worked on:
 * A questionnaire for young people with mental health problems, for [Anna Freud](http://www.annafreud.org/) : https://github.com/FAC-11/AllAboutMe
-* A multiplayer - shooter game, using websockets and pure JavaScript : [Gunboat Diplomacy] (https://github.com/FAC-11/FACgame)
+* A multiplayer - shooter game, using websockets and pure JavaScript : [Gunboat Diplomacy](https://github.com/FAC-11/FACgame)
 
 ***
 
