@@ -8,50 +8,15 @@ I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former acade
 ***
 
 ## My current tech stack
-|   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Others__    |
-|  -------------  | -----------------------  | ----------- | ------------- | -----------------   |
-|   JavaScript    | Node.js    | Tape /Supertest     |  PostgreSQL     |   Heroku    |
-|   HTML5/CSS3    | Express.js | Travis/Cl  |       |   Authentication with bcrypt and JSON Web Token   |
-|   Python  |    |    |    |     Markdown    |                                         
+|   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Others__    | __Other software__   | 
+|  -------------  | -----------------------  | ----------- | ------------- | -----------------   | -------------------- |
+|   JavaScript    | Node.js    | Tape        |  PostgreSQL     |   Heroku    |   Origin     |
+|   HTML5/CSS3    | Express.js | Travis/Cl   |   Redis    |   Authentication: bcrypt, JSON Web Token, crypto   |  Mathematica  |
+|   Python        |  Handlebars  |  Istanbul/nyc |    MongoDB      |     Git/Github    |    Gimp   |                         
+|   Matlab        |    3.js     |      supertest         |             |       Markdown   |  Reason 5   |
+|                 |  socket.io   |          |               |              |      babel/browserify/watchify     |
 
-* JavaScript
-* Node.js
-* Express.js and Handlebars
-* Testing with Tape and supertest
-* Database postgreSQL
-* Authentication: bcrypt, JSON Web Token, crypto.
-* Heroku
-* Git/Github and Markdown
-* HTML5/ CSS3
-
-
-## Have also used
-* MongoDB
-* Websockets with __socket.io__
-* __Three.js__ frontend library for gaming
-* __Babel__ for transpiling code to cross-browser compatible
-* __Browserify/watchify__ for bundling frontend files
-* Continuous integration using __Travis__
-* __Istanbul__ , code coverage
-* __Tachyons__, faster way and cleaner CSS
-* __Sendemail__ npm module for sending emails
-* __Redis__ database
-
-
-## Interests
-* React
-* Redux
-* D3.js
-* Jest
-* Machine Learning and Big Data
-
-
-## Other languages
-
-Familiar with __Python__ : completed intermediate and introduction to Python for Data Science on Datacamp.
-
-I also used __Matlab__ for the data analysis of my PhD research results, as well as other software like Origin, Matlab, Mathematica etc.
-
+*** 
 
 ## OS
 Linux, Mac, Windows, you name it.
