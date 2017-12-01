@@ -21,7 +21,6 @@ I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former acade
 
 
 ## Have also used
-* MongoDB
 * Websockets with __socket.io__
 * __Three.js__ frontend library for gaming
 * __Babel__ for transpiling code to cross-browser compatible
@@ -38,6 +37,7 @@ I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former acade
 * Redux
 * D3.js
 * Jest
+* MongoDB
 * Machine Learning and Big Data
 
 
