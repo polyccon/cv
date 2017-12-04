@@ -1,4 +1,2 @@
-# constantina
-
 My online CV.
 
