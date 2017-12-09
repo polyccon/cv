@@ -2,8 +2,10 @@
 
 I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former academic in the field of experimental physics. I discovered programming because I was interested in learning about data science, and it has become my passion since I started preparing for my application to the FAC programme. I'm looking for the right place where I can keep learning about programming while solving interesting problems, surrounded by inspiring people, in a nice and supportive work environment. 
 
-* Currently working on a project for young people with mental health problems, to help their transition to adult care, for [Anna Freud](http://www.annafreud.org/) : https://github.com/FAC-11/AllAboutMe
-* Here is a link to a recent project I've worked on (a multiplayer - shooter game all written in JS, using websockets) : https://github.com/FAC-11/FACgame
+Some projects I've worked on:
+* A questionnaire for young people with mental health problems, for the [Anna Freud](http://www.annafreud.org/) charity [All about me](https://github.com/FAC-11/AllAboutMe)
+* A multiplayer - shooter game, using websockets and pure JavaScript : [Gunboat Diplomacy](https://github.com/FAC-11/FACgame)
+
 
 ***
 
