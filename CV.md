@@ -36,12 +36,11 @@ Some projects I've worked on:
 
 
 ## Interests 
+* Machine Learning and Big Data
+* MongoDB
+* D3.js
 * React
 * Redux
-* D3.js
-* MongoDB
-* Machine Learning and Big Data
-
 
 ## Other languages
 
