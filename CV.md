@@ -17,9 +17,11 @@ Some projects I've worked on:
 * Testing with Tape, shot and supertest
 * Database postgreSQL
 * Authentication: bcrypt, JSON Web Token, crypto.
-* Heroku
+* Deployment to Heroku
+* Continuous integration using __Travis__
 * Git/Github and Markdown
 * HTML5/ CSS3
+* Agile/ Scrum
 
 
 ## Have also used
@@ -27,7 +29,6 @@ Some projects I've worked on:
 * __Three.js__ frontend library for gaming
 * __Babel__ for transpiling code to cross-browser compatible
 * __Browserify/watchify__ for bundling frontend files
-* Continuous integration using __Travis__
 * __Istanbul__ , code coverage
 * __Tachyons__, faster way and cleaner CSS
 * __Sendemail__ npm module for sending emails
@@ -38,7 +39,6 @@ Some projects I've worked on:
 * React
 * Redux
 * D3.js
-* Jest
 * MongoDB
 * Machine Learning and Big Data
 
