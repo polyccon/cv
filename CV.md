@@ -14,7 +14,7 @@ Some projects I've worked on:
 * JavaScript
 * Node.js
 * Express.js and Handlebars
-* Testing with Tape and supertest
+* Testing with Tape, shot and supertest
 * Database postgreSQL
 * Authentication: bcrypt, JSON Web Token, crypto.
 * Heroku
