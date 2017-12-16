@@ -111,11 +111,10 @@ applications of _Machine Learning_ concepts.
 
 * **_Degree in Physics (BSc/MSc)_**. Aristotle University of Thessaloniki.
 
-      I took 54 exams in a wide range of scientific topics (i.e. Theoretical and Quantum Mechanics, Optics, Astronomy,
-
-  Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical
-  geometry/vector calculus, Chemistry, Physic and Philosophy, Advanced Calculus,
-  Differential Equations etc.)
+  I took 54 exams in a wide range of scientific topics (i.e. Theoretical and
+  Quantum Mechanics, Optics, Astronomy, Thermodynamics, Atomic Physics, Nuclear
+  Physics, Electromagnetism, Analytical geometry/vector calculus, Chemistry,
+  Physic and Philosophy, Advanced Calculus, Differential Equations etc.)
 
 ---
 
@@ -125,9 +124,10 @@ applications of _Machine Learning_ concepts.
 
 [Twitter](https://twitter.com/polyccon) | polyccon@gmail.com |
 <a href="https://www.linkedin.com/in/polycco">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+| <a href="https://github.com/polyccon">
 <img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png" alt="github" hspace="50" height="42" width="42"></a>
-| [Github](https://github.com/polyccon) |
-[StackOverflow](https://stackoverflow.com/users/8650897/polyccon)
+| [StackOverflow](https://stackoverflow.com/users/8650897/polyccon)
 
 ---
 
