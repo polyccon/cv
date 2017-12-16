@@ -57,23 +57,24 @@ Linux, Mac, Windows, you name it.
 ***
 
 ## <a name="experience">Experience</a>
-* _*Node week-2 mentor*_ at Founders and Coders - November 2017
-* Full Stack JavaScript Developer, Founders & Coders, London
-* Data & Insights Manager, London
-* Academic research in Nanomedicine (science), in France 
-* Academic research in Quantum Optics (science), in Florence, Italy 
+* **_Node week-2 mentor_** at Founders and Coders - November 2017
+* **_Full Stack JavaScript Developer_**, Founders & Coders, London
+* **_Data & Insights Manager_**, London
+* Academic **_researcher in Nanomedicine_** (science), in France 
+* Academic **_researcher in Quantum Optics_** (science), in Florence, Italy 
+* **_European Commission trainee_**, INFSO Directorate General, Photonics Unit
 
 ***
 
 ## <a name="education">Education</a>
 ![founders and coders](https://www.coops.tech/app/uploads/2016/12/CT_Logo_Founders_Coders.png)
-* 17 week bootcamp at *_Founders and Coders_*, London
+* 17 week web development bootcamp at **_Founders and Coders_**, London
 
-* *_Ph.D. in Atomic and Molecular Spectroscopy_* (experimental physics). L.E.N.S., INO-CNR and Univesity of Florence, Italy.
+* **_Ph.D. in Atomic and Molecular Spectroscopy_** (experimental physics). L.E.N.S., INO-CNR and Univesity of Florence, Italy.
 
     Thesis title: “Adaptive detection of arbitrarily shaped ultrashort quantum light states”
 
-* *_Degree in Physics (BSc/MSc)_*. Aristotle University of Thessaloniki.
+* **_Degree in Physics (BSc/MSc)_**. Aristotle University of Thessaloniki.
 
     I took 54 exams in a wide range of scientific topics (i.e. Theoretical and Quantum Mechanics, Optics, Astronomy,
 Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical geometry/vector calculus, Chemistry, Physic and Philosophy, Advanced Calculus, Differential Equations etc.)
