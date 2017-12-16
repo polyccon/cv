@@ -125,7 +125,7 @@ applications of _Machine Learning_ concepts.
 
 [Twitter](https://twitter.com/polyccon) | polyccon@gmail.com |
 <a href="https://www.linkedin.com/in/polycco">
-<img src="../assets/linkedin.png" alt="github" hspace="50" height="42" width="42"></a>
+<img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png" alt="github" hspace="50" height="42" width="42"></a>
 | [Github](https://github.com/polyccon) |
 [StackOverflow](https://stackoverflow.com/users/8650897/polyccon)
 
