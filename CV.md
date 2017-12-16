@@ -127,7 +127,8 @@ applications of _Machine Learning_ concepts.
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 | <a href="https://github.com/polyccon">
 <img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png" alt="github" hspace="50" height="42" width="42"></a>
-| [StackOverflow](https://stackoverflow.com/users/8650897/polyccon)
+| <a
+href"https://stackoverflow.com/users/8650897/polyccon"><img src="https://icon-icons.com/icons2/840/PNG/512/Stackoverflow_icon-icons.com_66920.png" alt="stackoverflow" hspace="50" height="42" width="42"></a>
 
 ---
 
