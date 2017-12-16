@@ -26,7 +26,7 @@ Some projects I've worked on:
 * Agile/ Scrum
 
 
-## Have also used
+### Have also used
 * Websockets with __socket.io__
 * __Three.js__ frontend library for gaming
 * __Babel__ for transpiling code to cross-browser compatible
@@ -37,26 +37,26 @@ Some projects I've worked on:
 * __Redis__ database
 
 
-## Interests 
+### Interests 
 * Machine Learning and Big Data
 * MongoDB
 * D3.js
 * React
 * Redux
 
-## Other languages
+### Other languages
 
 Familiar with __Python__ : completed intermediate and introduction to Python for Data Science on Datacamp. 
 
 I also used __Matlab__ for the data analysis of my PhD research results, as well as other software like Origin, Matlab, Mathematica etc.
 
 
-## OS
+### OS
 Linux, Mac, Windows, you name it.
 
 ***
 
-### <a name="experience">Experience</a>
+## <a name="experience">Experience</a>
 * Node week-2 mentor at Founders and Coders - November 2017
 * Full Stack JavaScript Developer, Founders & Coders, London
 * Data & Insights Manager, London
@@ -65,7 +65,7 @@ Linux, Mac, Windows, you name it.
 
 ***
 
-### <a name="education">Education</a>
+## <a name="education">Education</a>
 ![founders and coders](https://www.coops.tech/app/uploads/2016/12/CT_Logo_Founders_Coders.png)
 * 17 week bootcamp at Founders and Coders, London
 
@@ -85,7 +85,7 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 
 ***
 
-### <a name="additional_info">Additional Information</a>
+## <a name="additional_info">Additional Information</a>
 
 ### Publications and Press Releases
 * Phys. Rev. Lett. 109, 053602 . “Adaptive detection of arbitrarily shaped ultrashort
