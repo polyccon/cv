@@ -73,7 +73,9 @@ Linux, Mac, Windows, you name it.
 * **_Ph.D. in Atomic and Molecular Spectroscopy_** (experimental physics). L.E.N.S., INO-CNR and Univesity of Florence, Italy.
 
     Thesis title: “Adaptive detection of arbitrarily shaped ultrashort quantum light states”
-
+    
+ It was about a novel experimental technique combining Quantum and Ultrafast Optics, designed to detect and fully characterise any shape of any quantum ultrashort light state, in an adaptive way, without the need of any preliminary information (as was previously necessary). The adaptive aspect of the detector was facilitated by making use of a **_Genetic Algorithm_** -one of the real life applications of _Machine Learning_ concepts. 
+ 
 * **_Degree in Physics (BSc/MSc)_**. Aristotle University of Thessaloniki.
 
     I took 54 exams in a wide range of scientific topics (i.e. Theoretical and Quantum Mechanics, Optics, Astronomy,
