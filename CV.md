@@ -12,7 +12,7 @@ Some projects I've worked on:
 
 
 ***
-### <a name="tech_stack">My current tech stack</a>
+### <a name="tech_stack">Tech stack</a>
                                          
 * JavaScript
 * Node.js
