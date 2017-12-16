@@ -1,6 +1,6 @@
 # Constantina - Github CV
 
-[Tech stack](#steck_stack)  |  [Projects](#projects)  |  [Education](#education)  |  [Experience](#experience)  |  [Interests](#interests)  |  [Contact](#contact)  | [Additional Info](#additional_info)
+[Tech stack](#teck_stack)  |  [Projects](#projects)  |  [Education](#education)  |  [Experience](#experience)  |  [Interests](#interests)  |  [Contact](#contact)  | [Additional Info](#additional_info)
 
 I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former academic in the field of experimental physics. I discovered programming because I was interested in learning about data science, and it has become my passion since I started preparing for my application to the FAC programme. I'm looking for the right place where I can keep learning about programming while solving interesting problems, surrounded by inspiring people, in a nice and supportive work environment. 
 
@@ -81,12 +81,12 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 
 ***
 
-### <a name="contact">Contact/a>
+### <a name="contact">Contact</a>
 [Twitter](https://twitter.com/polyccon) | polyccon@gmail.com | [LinkedIn](https://www.linkedin.com/in/polycco) | [Github](https://github.com/polyccon) | [StackOverflow](https://stackoverflow.com/users/8650897/polyccon)
 
 ***
 
-### <a name="additional_info">Additional Information/a>
+### <a name="additional_info">Additional Information</a>
 
 ### Publications and Press Releases
 * Phys. Rev. Lett. 109, 053602 . “Adaptive detection of arbitrarily shaped ultrashort
