@@ -1,6 +1,10 @@
 # Constantina - Github CV
 
+[Tech stack](#steck_stack)  |  [Projects](#projects)  |  [Education](#education)  |  [Experience](#experience)  |  [Interests](#interests)  |  [Contact](#contact)  | [Additional Info](#additional_info)
+
 I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former academic in the field of experimental physics. I discovered programming because I was interested in learning about data science, and it has become my passion since I started preparing for my application to the FAC programme. I'm looking for the right place where I can keep learning about programming while solving interesting problems, surrounded by inspiring people, in a nice and supportive work environment. 
+
+### <a name="projects">Projects</a>
 
 Some projects I've worked on:
 * A questionnaire for young people with mental health problems, for the [Anna Freud](http://www.annafreud.org/) charity [All about me](https://github.com/FAC-11/AllAboutMe)
@@ -8,8 +12,7 @@ Some projects I've worked on:
 
 
 ***
-
-## My current tech stack
+### <a name="tech_stack">My current tech stack</a>
                                          
 * JavaScript
 * Node.js
@@ -54,7 +57,7 @@ Linux, Mac, Windows, you name it.
 
 ***
 
-## Experience
+### <a name="experience">Experience</a>
 * Node week-2 mentor at Founders and Coders - November 2017
 * Full Stack JavaScript Developer, Founders & Coders, London
 * Data & Insights Manager, London
@@ -63,7 +66,7 @@ Linux, Mac, Windows, you name it.
 
 ***
 
-## Education
+### <a name="education">Education</a>
 ![founders and coders](https://www.coops.tech/app/uploads/2016/12/CT_Logo_Founders_Coders.png)
 * 17 week bootcamp at Founders and Coders, London
 
@@ -78,12 +81,12 @@ Thermodynamics, Atomic Physics, Nuclear Physics, Electromagnetism, Analytical ge
 
 ***
 
-## Contact 
+### <a name="contact">Contact/a>
 [Twitter](https://twitter.com/polyccon) | polyccon@gmail.com | [LinkedIn](https://www.linkedin.com/in/polycco) | [Github](https://github.com/polyccon) | [StackOverflow](https://stackoverflow.com/users/8650897/polyccon)
 
 ***
 
-## Additional info 
+### <a name="additional_info">Additional Information/a>
 
 ### Publications and Press Releases
 * Phys. Rev. Lett. 109, 053602 . “Adaptive detection of arbitrarily shaped ultrashort
