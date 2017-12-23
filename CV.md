@@ -178,7 +178,7 @@ href="https://stackoverflow.com/users/8650897/polyccon"><img src="https://icon-i
 
 ### Other interests
 
-When not at FAC or **codebar** or other **coding meetups**, I might be doing one
+When not at FAC or **codebar** or other **coding meetups** or **coding conferences** such as the **"Github Satellite 2017"**, I might be doing one
 of the following:
 
 * Running -long distance. :running:
