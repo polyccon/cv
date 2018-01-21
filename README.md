@@ -1,5 +1,5 @@
 Hi, thanks for stopping by. I'm Constantina, JavaScript developer and PhD in Physics, currently training in data science and machine
-learning. I'll be very happy to hear from you if you have interesting ideas for projects, jobs or simply new cool tricks or technology tools I can learn.
+learning. I'll be very happy to hear from you if you have interesting ideas for projects, jobs, or simply new cool code tricks or technology tools you'd like to share.
 
 You can contact me here:
 
