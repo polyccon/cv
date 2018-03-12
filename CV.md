@@ -27,10 +27,10 @@ Some projects I've worked on:
 |   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Other__    | __OS__   | 
 |  -------------  | -----------------------  | ----------- | ------------- | -----------------   | -------------------- |
 |   Python        | Flask    | Tape        |  PostgreSQL     |   Heroku    |   Linux     |
-|   JavaScript    | Numpy/Pandas |  Shot   |   Redis    |   Authentication: bcrypt, JSON Web Token, crypto   |  Mac  |
-|   HTML5/CSS3    |  Scikit-learn  |  Supertest   |    MongoDB      |     Git/Github    |    Windows   |                         
-|   Matlab        |    Node/Express     |        Travis/Cl       |             |       Markdown   |  You name it   |
-|                 |  AutoMl   |     Istanbul/nyc      |               |              |      
+|   JavaScript    | Numpy/Pandas |  Shot   |   Redis    |  rq    |  Mac  |
+|   HTML5/CSS3    |  Scikit-learn  |  Supertest   |    MongoDB      |     Git/Github/bitbucket    |    Windows   |                         
+|   Matlab        |    Node/Express     |        Travis/Cl       |     SQLalchemy        |     websockets     |  You name it   |
+|                 |  AutoMl   |     Istanbul/nyc      |    psychopg2           |      Authentication: bcrypt, JSON Web Token, crypto        |      
 
 *** 
 
