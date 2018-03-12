@@ -4,13 +4,6 @@
 [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Additional Info](#additional_info)
 
-I'm a JavaScript developer, Founders and Coders (FAC) graduate, and former
-academic in the field of experimental physics. I discovered programming because
-I was interested in learning about data science, and it has become my passion
-since I started preparing for my application to the FAC programme. I'm looking
-for the right place where I can keep learning about programming while solving
-interesting problems, surrounded by inspiring people, in a nice and supportive
-work environment.
 
 ### <a name="projects">Projects
 
@@ -30,44 +23,17 @@ Some projects I've worked on:
 
 </a>
 
-* JavaScript
-* Node.js
-* Express.js and Handlebars
-* Testing with Tape, shot and supertest
-* Database postgreSQL
-* Authentication: bcrypt, JSON Web Token, crypto.
-* Deployment to Heroku
-* Continuous integration using **Travis**
-* Git/Github and Markdown
-* HTML5/ CSS3
-* Agile/ Scrum
 
-### Have also used
+|   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Other__    | __OS__   | 
+|  -------------  | -----------------------  | ----------- | ------------- | -----------------   | -------------------- |
+|   Python        | Flask    | Tape        |  PostgreSQL     |   Heroku    |   Linux     |
+|   JavaScript    | Numpy/Pandas |  Shot   |   Redis    |   Authentication: bcrypt, JSON Web Token, crypto   |  Mac  |
+|   HTML5/CSS3    |  Scikit-learn  |  Supertest   |    MongoDB      |     Git/Github    |    Windows   |                         
+|   Matlab        |    Node/Express     |        Travis/Cl       |             |       Markdown   |  You name it   |
+|                 |  AutoMl   |     Istanbul/nyc      |               |              |      
 
-* Websockets with **socket.io**
-* **Three.js** frontend library for gaming
-* **Babel** for transpiling code to cross-browser compatible
-* **Browserify/watchify** for bundling frontend files
-* **Istanbul** , code coverage
-* **Tachyons**, faster way and cleaner CSS
-* **Sendemail** npm module for sending emails
-* **Redis** database
+*** 
 
-### Interests
-
-* Machine Learning and Big Data
-* MongoDB
-* D3.js
-* React
-* Redux
-
-### Other languages
-
-Familiar with **Python** : completed intermediate and introduction to Python for
-Data Science on Datacamp.
-
-I also used **Matlab** for the data analysis of my PhD research results, as well
-as other software like Origin, Matlab, Mathematica etc.
 
 ### OS
 
