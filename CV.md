@@ -4,6 +4,7 @@
 [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Additional Info](#additional_info)
 
+Hi, I'm Constantina, a physicist, problem solver and data engineer. I obtained my PhD in atomic and molecular spectroscopy from LENS and the University of Florence, where I developed a detector utilising supervised learning and genetic algorithms to retrieve adaptively the spectrotemporal profile of quantum light states, allowing them to be measured for the first time without any prior information or preparation. Fascinated by data science and passionate about programming and large-scale systems architectures, I was destined to go into a career in data engineering. In order to make that change, I had the opportunity to work with ASI Data Science, within their SherlockML engineering team, where I built an automatic machine learning service, in the form of an API. I’m currently looking for the right place where I can learn about distributed systems and build robust pipelines that can handle flows of data, solving interesting problems while surrounded by inspiring people, in a nice and supportive work environment.
 
 ### <a name="projects">Projects
 
@@ -12,7 +13,7 @@ My ASI Fellowship project:
 
 * Buit and deployed an automatic machine learning API, hosted on the SherlockML platform. Tech stack: Python framework Flask, postgres and rq
 
-Some projects I've worked on:
+Some other projects I've worked on:
 
 * An express/handlebars/postgres boilerplate: [Boilerplate](https://github.com/polyccon/boilerplate)
 * A questionnaire for young people with mental health problems, for the [Anna
