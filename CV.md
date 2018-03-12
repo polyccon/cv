@@ -44,20 +44,42 @@ Some projects I've worked on:
 ## <a name="experience">Experience</a>
 
 * 2018, __ASI Fellowship__,  project with SherlockM engineering team,  at ASI Data Science.
+
 SherlockML is a data science development platform, developed by ASI Data Science.  I developed an automatic machine learning [API](https://hopper.api.sherlockml.io) - ask me for a key
+
+
 * 2017, Work Experience in Node at Filament, Machine Learning and AI company, London
-		I worked on the backend of a chatbot developed to serve the clients of a big company.
+
+I worked on the backend of a chatbot developed to serve the clients of a big company.
+
+
 * 2017, __Node week-2 mentor__ at Founders and Coders - November 2017
-		Mentor for the 2nd week of Node, teaching error handling, shell scripting and testing.
+
+Mentor for the 2nd week of Node, teaching error handling, shell scripting and testing.
+
+
 * 2017, __Full Stack JavaScript Developer__, Founders & Coders, London
+
 Freelance developer and project manager of All about me, a webapp developed for young people with mental health problems for Anna Freud UK, charity.
+
+
 * 2016 - 17,	__Data & Insights Manager__, London
-		Managed and maintained the database of a small company in London.
+
+Managed and maintained the database of a small company in London.
+
+
 * 2014-15, __Research fellow__, University Franche-Comte, France
+
 Organised the optics lab and worked on the construction of a microscope for the study of human skin cells.
+
+
 * 2013, __Research fellow__ in Quantum Optics (science), in Florence, Italy
-		Worked on the experiment of my PhD, creating and characterising hyperentangled states
+
+Worked on the experiment of my PhD, creating and characterising hyperentangled states
+
+
 * 2008- 2009, __European Commission trainee__, INFSO Directorate General, Photonics Unit
+
 Trainee in communications, Photonics Unit, managing the European budget for research in Photonics.
 
 ---
