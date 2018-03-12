@@ -35,7 +35,7 @@ Some other projects I've worked on:
 |   JavaScript    | Numpy/Pandas |  Shot   |   Redis    |  rq    |  Mac  |
 |   HTML5/CSS3    |  Scikit-learn  |  Supertest   |    MongoDB      |     Git/Github/bitbucket    |    Windows   |                         
 |   Matlab        |    Node/Express     |        Travis/Cl       |     SQLalchemy        |     websockets     |  You name it   |
-|                 |  AutoMl   |     Istanbul/nyc      |    psychopg2           |      Authentication: bcrypt, JSON Web Token, crypto        |      
+|                 |  AutoMl   |     Istanbul/nyc      |    psychopg2           |      Agile/ Scrum        |      
 
 *** 
 
