@@ -31,9 +31,9 @@ Some other projects I've worked on:
 
 |   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Other__    | __OS__   | 
 |  -------------  | -----------------------  | ----------- | ------------- | -----------------   | -------------------- |
-|   Python        | Flask    | Tape        |  PostgreSQL     |   Heroku    |   Linux     |
-|   JavaScript    | Numpy/Pandas |  Shot   |   Redis    |  rq    |  Mac  |
-|   HTML5/CSS3    |  Scikit-learn  |  Supertest   |    MongoDB      |     Git/Github/bitbucket    |    Windows   |                         
+|   Python        | Flask    | Tape        |  PostgreSQL     |   git/github/bitbucket    |   Linux     |
+|   JavaScript    | Numpy/Pandas |  Shot   |   Redis    |  heroku    |  Mac  |
+|   HTML5/CSS3    |  Scikit-learn  |  Supertest   |    MongoDB      |     rq    |    Windows   |                         
 |   Matlab        |    Node/Express     |        Travis/Cl       |     SQLalchemy        |     websockets     |  You name it   |
 |                 |  AutoMl   |     Istanbul/nyc      |    psychopg2           |      Agile/ Scrum        |      
 
@@ -47,6 +47,7 @@ Some other projects I've worked on:
 * 2018, __ASI Fellowship__,  project with SherlockM engineering team,  at ASI Data Science.
 
 SherlockML is a data science development platform, developed by ASI Data Science.  I developed an automatic machine learning [API](https://hopper.api.sherlockml.io) - ask me for a key
+The results of this work were presented at the ASI Demo Day event, 9th March 2018.
 
 
 * 2017, Work Experience in Node at Filament, Machine Learning and AI company, London
