@@ -4,14 +4,13 @@
 [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Additional Info](#additional_info)
 
-Hi, I'm Constantina, a physicist, problem solver and data scientist/engineer. I obtained my PhD in atomic and molecular spectroscopy from LENS and the University of Florence, where I developed a detector utilising supervised learning and genetic algorithms to retrieve adaptively the spectrotemporal profile of quantum light states, allowing them to be measured for the first time without any prior information or preparation. Fascinated by data science and passionate about programming, I got into the ASI Data Science fellowship programme. For my project, I worked their SherlockML engineering team, where I built an automatic machine learning service, in the form of an API.  I’m looking for the right place where I enhance my knowledge on distributed systems, build robust pipelines that handle flows of data, creating scalable solutions to data science problems following the agile methodology process. Or even create interesting visualisations; in general, solve interesting problems while surrounded by inspiring people, in a nice and supportive work environment.
 
 ### <a name="projects">Projects
 
 </a>
-My ASI Fellowship project:
+My Data Engineering project with ASI Data Science:
 
-* Buit and deployed an automatic machine learning API, hosted on the SherlockML platform. Tech stack: Python framework Flask, postgres and rq
+* Buit and deployed an automatic machine learning API, hosted on the SherlockML platform. Tech stack: Python framework Flask, postgreSQL and rq
 
 Some other projects I've worked on:
 
@@ -46,9 +45,13 @@ Some other projects I've worked on:
 
 * 2018, __ASI Fellowship__,  project with SherlockM engineering team,  at ASI Data Science.
 
-SherlockML is a data science development platform, developed by ASI Data Science.  I developed an automatic machine learning [API](https://hopper.api.sherlockml.io) - ask me for a key
-The results of this work were presented at the ASI Demo Day event, 9th March 2018.
-
+SherlockML is a data science development platform, developed by ASI Data Science.  I 
+developed an automatic machine learning [API](https://hopper.api.sherlockml.io)  using 
+Python, Flask, Postgres and rq.- ask me for a key. I used a dataset from the Higgs boson 
+experiment, as well as the well-known MNIST handwritten digits both for research and 
+development parts of the project. 
+I presented the results of this work to 250 people from the industry, at the ASI Demo Day 
+event, 9th March 2018. 
 
 * 2017, Work Experience in Node at Filament, Machine Learning and AI company, London
 
@@ -62,7 +65,9 @@ Mentor for the 2nd week of Node, teaching error handling, shell scripting and te
 
 * 2017, __Full Stack JavaScript Developer__, Founders & Coders, London
 
-Freelance developer and project manager of All about me, a webapp developed for young people with mental health problems for Anna Freud UK, charity.
+Freelance developer and project co-manager of All about me, a webapp developed 
+following the agile methodology process,  for young people with mental health 
+problems for Anna Freud UK, charity.
 
 
 * 2016 - 17,	__Data & Insights Manager__, London
@@ -72,7 +77,8 @@ Managed and maintained the database of a small company in London.
 
 * 2014-15, __Research fellow__, University Franche-Comte, France
 
-Organised the optics lab and worked on the construction of a microscope for the study of human skin cells.
+Organised the optics lab and worked on the construction of a microscope for the study of 
+human skin cells.
 
 
 * 2013, __Research fellow__ in Quantum Optics (science), in Florence, Italy
@@ -90,24 +96,39 @@ Trainee in communications, Photonics Unit, managing the European budget for rese
 
 ![founders and coders](https://www.coops.tech/app/uploads/2016/12/CT_Logo_Founders_Coders.png)
 
+* **__ASI Data Science__** Fellowship, London
+
+· Highly selective eight week ‘academia to industry’ Data Science and Machine Learning 
+  conversion course given by ASI Data Science.
+· Two weeks of intensive classroom based training at ASI Data Science followed by a 
+  five week Data Science and Engineering    project at ASI’s data science platform, 
+  SherlockML. Final week spent preparing project presentation.
+· Topics covered: programming in Python 3 for Data Science (pandas, numpy, scikit-learn), 
+  current Machine Learning algorithms and their application to commercial and industrial 
+  problems, distributed computing with Spark and Hadoop, Databases relational and 
+  non-relational (SQL and MongoDB), commercial acumen and business skills, presentation 
+  training.
+
 * 17 week web development bootcamp at **_Founders and Coders_**, London
+
+  Open source ethics and peer-led learning underpin the 16-week course, with a 
+  heavy emphasis on pair programming and thorough documentation.
+  During the first half, each week culminates in a 2-day project that is delivered 
+  in small agile teams dedicated to the following topics: Version control and 
+  Accessibility, Testing, Apis, Node, Node week 2, Database, Authentication and Express
 
 * **_Ph.D. in Atomic and Molecular Spectroscopy_** (experimental physics).
   L.E.N.S., INO-CNR and Univesity of Florence, Italy.
 
-  Thesis title: “Adaptive detection of arbitrarily shaped ultrashort quantum
-  light states”
+  Developed a detector utilising supervised learning and genetic algorithms to 
+  retrieve adaptively the spectrotemporal profile of quantum light states, 
+  allowing them to be measured for the first time without any prior information 
+  or preparation. One of the real life Machine Learning applications.
 
-It was about a novel experimental technique combining Quantum and Ultrafast
-Optics, designed to detect and fully characterise any shape of any quantum
-ultrashort light state, in an adaptive way, without the need of any preliminary
-information (as was previously necessary). The adaptive aspect of the detector
-was facilitated by making use of a **_Genetic Algorithm_** -one of the real life
-applications of _Machine Learning_ concepts.
 
 * **_Degree in Physics (BSc/MSc)_**. Aristotle University of Thessaloniki.
 
-  I took 54 exams in a wide range of scientific topics (i.e. Theoretical and
+  54 exams in a wide range of scientific topics (i.e. Theoretical and
   Quantum Mechanics, Optics, Astronomy, Thermodynamics, Atomic Physics, Nuclear
   Physics, Electromagnetism, Analytical geometry/vector calculus, Chemistry,
   Physic and Philosophy, Advanced Calculus, Differential Equations etc.)
