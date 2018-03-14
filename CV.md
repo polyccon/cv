@@ -98,12 +98,14 @@ Trainee in communications, Photonics Unit, managing the European budget for rese
 
 * **__ASI Data Science__** Fellowship, London
 
- * Highly selective eight week ‘academia to industry’ Data Science and Machine Learning 
+ -- Highly selective eight week ‘academia to industry’ Data Science and Machine Learning 
   conversion course given by ASI Data Science.
- * Two weeks of intensive classroom based training at ASI Data Science followed by a 
+  
+ -- Two weeks of intensive classroom based training at ASI Data Science followed by a 
   five week Data Science and Engineering    project at ASI’s data science platform, 
   SherlockML. Final week spent preparing project presentation.
- * Topics covered: programming in Python 3 for Data Science (pandas, numpy, scikit-learn), 
+  
+ -- Topics covered: programming in Python 3 for Data Science (pandas, numpy, scikit-learn), 
   current Machine Learning algorithms and their application to commercial and industrial 
   problems, distributed computing with Spark and Hadoop, Databases relational and 
   non-relational (SQL and MongoDB), commercial acumen and business skills, presentation 
