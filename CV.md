@@ -53,7 +53,7 @@ development parts of the project.
 I presented the results of this work to 250 people from the industry, at the ASI Demo Day 
 event, 9th March 2018. 
 
-* 2017, Backend Engineer in Node at Filament, Machine Learning and AI company, London
+* 2017, __Backend Engineer__ in Node at Filament, Machine Learning and AI company, London
 
 I worked on the backend of a chatbot developed to serve the clients of a big company.
 
