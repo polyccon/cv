@@ -43,7 +43,7 @@ Some other projects I've worked on:
 
 ## <a name="experience">Experience</a>
 
-* 2018, __ASI Fellowship__,  project with SherlockM engineering team,  at ASI Data Science.
+* 2018, __Data Engineering__ project with the SherlockM engineering team,  at ASI Data Science.
 
 SherlockML is a data science development platform, developed by ASI Data Science.  I 
 developed an automatic machine learning [API](https://hopper.api.sherlockml.io)  using 
@@ -53,7 +53,7 @@ development parts of the project.
 I presented the results of this work to 250 people from the industry, at the ASI Demo Day 
 event, 9th March 2018. 
 
-* 2017, Work Experience in Node at Filament, Machine Learning and AI company, London
+* 2017, Backend Engineer in Node at Filament, Machine Learning and AI company, London
 
 I worked on the backend of a chatbot developed to serve the clients of a big company.
 
