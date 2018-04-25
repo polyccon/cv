@@ -1,4 +1,4 @@
-Hi, thanks for stopping by. I'm Constantina, data engineer. I'll be very happy to hear from you if you have interesting ideas for projects, jobs, or simply new cool code tricks or technology tools you'd like to share.
+Hi, thanks for stopping by. I'm Constantina. I'll be very happy to hear from you if you have interesting ideas for projects, jobs, or simply new cool code tricks or technology tools you'd like to share.
 
 You can contact me here:
 
