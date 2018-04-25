@@ -30,8 +30,8 @@ Some other projects I've worked on:
 
 |   __Languages__ | __Frameworks/Libraries__ | __Testing__ | __Databases__ | __Tools/Other__    | __OS__   | 
 |  -------------  | -----------------------  | ----------- | ------------- | -----------------   | -------------------- |
-|   Python        | Flask    | Tape        |  PostgreSQL     |   git/github/bitbucket    |   Linux     |
-|   JavaScript    | Numpy/Pandas |  Shot   |   Redis    |  heroku    |  Mac  |
+|   Python        | Flask    | Pytest       |  PostgreSQL     |   git/github/bitbucket    |   Linux     |
+|   JavaScript    | Numpy/Pandas |  Tape/Shot   |   Redis    |  heroku    |  Mac  |
 |   HTML5/CSS3    |  Scikit-learn  |  Supertest   |    MongoDB      |     rq    |    Windows   |                         
 |   Matlab        |    Node/Express     |        Travis/Cl       |     SQLalchemy        |     websockets     |  You name it   |
 |                 |  AutoMl   |     Istanbul/nyc      |    psychopg2           |      Agile/ Scrum        |      
