@@ -10,7 +10,7 @@
 </a>
 My Data Engineering project with ASI Data Science:
 
-* Buit and deployed an automatic machine learning API, hosted on the SherlockML platform. Tech stack: Python framework Flask, postgreSQL and rq
+* Buit and deployed an automatic machine learning API, hosted on the SherlockML platform. Tech stack: Python framework Flask, postgreSQL and python-rq
 
 Some other projects I've worked on:
 
@@ -33,9 +33,9 @@ Some other projects I've worked on:
 |   Python        | Flask    | Pytest       |  PostgreSQL     |   git/github/bitbucket    |   Linux     |
 |   JavaScript    | Numpy/Pandas |  Tape/Shot   |   Redis    |  heroku    |  Mac  |
 |   HTML5/CSS3    |  Scikit-learn  |  Supertest   |    MongoDB      |     rq    |    Windows   |                         
-|   Matlab        |    Node/Express     |        Travis/Cl       |     SQLalchemy        |     websockets     |  You name it   |
-|                 |  AutoMl   |     Istanbul/nyc      |    psychopg2           |      Agile/ Scrum        |      
-
+|      SQL        |    Node/Express     |        Travis/Cl       |     SQLalchemy        |     websockets     |  You name it   |
+|       Matlab    |  AutoMl   |     Istanbul/nyc      |    psychopg2           |      Agile/ Scrum        |      
+|                 |  Plotly   |                       |                        |                          |
 *** 
 
 
